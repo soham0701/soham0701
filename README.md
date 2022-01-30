@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/MFabj1E9mgUsqwVWHu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu">via GIPHY</a></p>
 
 <!--
 **soham0701/soham0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
