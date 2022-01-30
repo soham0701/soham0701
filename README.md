@@ -1,5 +1,11 @@
-### Hi there 👋
-<img src="giphy(2).gif"></img>
+
+### Hi there I am Soham Naik. 👋
+<img align="right" src="giphy(2).gif"></img>
+- 🔭 I’m currently working on Deep Learning
+- 🌱 I’m currently learning Blockchain
+
+<a href="https://www.linkedin.com/in/sn-07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:nsoham01@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--
 **soham0701/soham0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
