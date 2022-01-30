@@ -1,6 +1,5 @@
-
-### Hey there! I am Soham Naik. 👋
 <img align="right" src="giphy(2).gif"></img>
+### Hey there! I am Soham Naik. 👋
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning Blockchain
 
