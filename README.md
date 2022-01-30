@@ -1,4 +1,4 @@
-<img align="right" src="giphy(3).gif"></img>
+<img align="right" src="giphy(2).gif"></img>
 ### Hey there! I am Soham Naik. 👋
 I am a Third Year student at PICT. I am interested in the field of data science and machine learning.
 - 🔭 I’m currently working on Deep Learning
