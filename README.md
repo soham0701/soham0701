@@ -1,4 +1,4 @@
-<img align="right" src="giphy.gif"></img>
+<img align="right" src="giphy(3).gif"></img>
 ### Hey there! I am Soham Naik. 👋
 Results-driven AI Engineer and aspiring Data Scientist with a strong foundation in machine learning, NLP, and data engineering. Currently pursuing a Master's in Information Management at the University of Washington while working at Castor EDC developing HIPAA-compliant AI solutions that have reduced data entry costs by 50%.
 
