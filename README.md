@@ -1,8 +1,14 @@
 <img align="right" src="giphy.gif"></img>
 ### Hey there! I am Soham Naik. 👋
-I am a Third Year student at PICT. I am interested in the field of data science and machine learning.
-- 🔭 I’m currently working in Deep Learning
-- 🌱 I’m currently learning Blockchain
+Results-driven AI Engineer and aspiring Data Scientist with a strong foundation in machine learning, NLP, and data engineering. Currently pursuing a Master's in Information Management at the University of Washington while working at Castor EDC developing HIPAA-compliant AI solutions that have reduced data entry costs by 50%.
+
+At Johnson & Johnson, I'm analyzing histopathology image data through ETL processes and statistical analysis, creating visualizations in Tableau that drive actionable insights for stakeholders. My research at UW's NLP Lab evaluated bias in LLM models and implemented zero-shot retrieval frameworks analyzing 10,000+ documents.
+
+With published research in both NLP and Computer Vision, I bridge theoretical knowledge with practical applications. I specialize in building efficient data pipelines, RAG systems, and ML models that solve real business problems, having previously delivered a SARIMA forecasting model that improved sales prediction accuracy by 20% at Metro AG.
+
+Looking to leverage my technical expertise in Python, SQL, Azure, and TensorFlow to drive innovation in data science, AI engineering, or data analyst roles.
+
+ I am motivated by the potential of data and technology to improve lives and create positive impact.
 
 <a href="https://www.linkedin.com/in/sn-07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nsoham01@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
