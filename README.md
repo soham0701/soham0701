@@ -1,4 +1,3 @@
-<img align="right" src="giphy(3).gif"></img>
 ### Hey there! I am Soham Naik. 👋
 Results-driven AI Engineer and aspiring Data Scientist with a strong foundation in machine learning, NLP, and data engineering. Currently pursuing a Master's in Information Management at the University of Washington while working at Castor EDC developing HIPAA-compliant AI solutions that have reduced data entry costs by 50%.
 
@@ -9,6 +8,8 @@ With published research in both NLP and Computer Vision, I bridge theoretical kn
 Looking to leverage my technical expertise in Python, SQL, Azure, and TensorFlow to drive innovation in data science, AI engineering, or data analyst roles.
 
  I am motivated by the potential of data and technology to improve lives and create positive impact.
+
+<img align="center" src="giphy(3).gif"></img>
 
 <a href="https://www.linkedin.com/in/sn-07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nsoham01@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
