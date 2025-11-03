@@ -16,15 +16,14 @@ Looking to leverage my technical expertise in Python, SQL, Azure, and TensorFlow
 
 <h3>Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"></a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /> </a> 
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="blender" /> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-2496ED?style=for-the-badge&logo=pytorch&logoColor=white&color=E32D5B" alt="pytorch" /> </a>   
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> </a>
+<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
 
 <!--
