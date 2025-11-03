@@ -23,9 +23,6 @@ Looking to leverage my technical expertise in Python, SQL, Azure, and TensorFlow
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/> </a>
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/> </a>
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> </a> 
-<a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
-<a href="https://www.linux.org/"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
-
 <!--
 **soham0701/soham0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
