@@ -18,7 +18,7 @@ Looking to leverage my technical expertise in Python, SQL, Azure, and TensorFlow
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="blender" /> </a> 
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=nodejs&logoColor=white"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-2496ED?style=for-the-badge&logo=pytorch&logoColor=white&color=E32D5B" alt="pytorch" /> </a>   
